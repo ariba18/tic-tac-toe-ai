@@ -29,3 +29,6 @@ your win condition.
 - Game tree search (Minimax)
 - Basic Python I/O and control flow
 - Losing gracefully to code I wrote myself
+
+---
+## Author : **Ariba Khan**

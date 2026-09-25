@@ -30,5 +30,11 @@ your win condition.
 - Basic Python I/O and control flow
 - Losing gracefully to code I wrote myself
 
+## 🎥 Demo
+
+📽️ Check out the demo below to see the AI in action!
+
+![Gameplay demo](demo.gif)
+
 ---
 ## Author : **Ariba Khan**
